@@ -42,30 +42,30 @@
 
 :root {
   --radius: 0.75rem;
-  --background: oklch(0.96 0.025 80); /* warm cream */
-  --foreground: oklch(0.36 0.06 45); /* deep brown #6b3a2a */
-  --card: oklch(0.985 0.015 85);
-  --card-foreground: oklch(0.36 0.06 45);
-  --popover: oklch(0.985 0.015 85);
-  --popover-foreground: oklch(0.36 0.06 45);
-  --primary: oklch(0.63 0.12 65); /* copper #cd7f32 */
-  --primary-foreground: oklch(0.97 0.02 85);
-  --secondary: oklch(0.9 0.035 75);
-  --secondary-foreground: oklch(0.4 0.06 50);
-  --muted: oklch(0.92 0.025 80);
-  --muted-foreground: oklch(0.5 0.045 50);
-  --accent: oklch(0.5 0.09 50); /* sienna #a0522d */
-  --accent-foreground: oklch(0.97 0.02 85);
+  --background: oklch(0.915 0.0552 67.6); /* cream #f0e6d2 */
+  --foreground: oklch(0.366 0.0312 242.0); /* deep teal #1a4a4a */
+  --card: oklch(0.94 0.04 70);
+  --card-foreground: oklch(0.366 0.0312 242.0);
+  --popover: oklch(0.94 0.04 70);
+  --popover-foreground: oklch(0.366 0.0312 242.0);
+  --primary: oklch(0.484 0.0417 241.8); /* teal #2a6f6f */
+  --primary-foreground: oklch(0.915 0.0552 67.6);
+  --secondary: oklch(0.786 0.1224 87.0); /* soft gold #d4b88a */
+  --secondary-foreground: oklch(0.319 0.0306 239.7); /* dark teal #0d3d3d */
+  --muted: oklch(0.855 0.045 75);
+  --muted-foreground: oklch(0.45 0.03 240);
+  --accent: oklch(0.741 0.1570 92.0); /* gold #c9a96e */
+  --accent-foreground: oklch(0.319 0.0306 239.7);
   --destructive: oklch(0.577 0.245 27.325);
-  --destructive-foreground: oklch(0.97 0.02 85);
-  --border: oklch(0.87 0.03 70);
-  --input: oklch(0.87 0.03 70);
-  --ring: oklch(0.63 0.12 65);
-  --clay: oklch(0.5 0.09 50); /* sienna #a0522d */
-  --clay-foreground: oklch(0.97 0.02 85);
-  --sage: oklch(0.36 0.06 45); /* deep brown #6b3a2a band */
-  --sage-foreground: oklch(0.83 0.07 85); /* gold #e8c07a text */
-  --cream: oklch(0.96 0.025 80);
+  --destructive-foreground: oklch(0.915 0.0552 67.6);
+  --border: oklch(0.786 0.1224 87.0);
+  --input: oklch(0.786 0.1224 87.0);
+  --ring: oklch(0.484 0.0417 241.8);
+  --clay: oklch(0.741 0.1570 92.0); /* gold #c9a96e */
+  --clay-foreground: oklch(0.319 0.0306 239.7);
+  --sage: oklch(0.257 0.0197 244.1); /* dark teal #0f2a2a band */
+  --sage-foreground: oklch(0.741 0.1570 92.0); /* gold #c9a96e text */
+  --cream: oklch(0.915 0.0552 67.6);
 }
 
 @layer base {
