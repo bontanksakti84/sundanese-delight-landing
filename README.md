@@ -1,8 +1,5 @@
 # Sundanese Delight Landing
 
 
-git clone <this-repository-url>
-cd <repository-name>
-npm i
+npm install
 npm run dev
-```
